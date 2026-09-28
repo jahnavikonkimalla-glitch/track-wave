@@ -1,0 +1,30 @@
+.hero{
+height:80vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+}
+
+.hero h1{
+font-size:50px;
+color:#0056d2;
+}
+
+.hero p{
+margin-top:20px;
+width:700px;
+font-size:20px;
+}
+
+.hero button{
+margin-top:30px;
+padding:15px 40px;
+border:none;
+background:#0056d2;
+color:white;
+font-size:18px;
+border-radius:10px;
+cursor:pointer;
+}
